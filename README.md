@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @astrijl
-- 👀 I’m interested in ...
+- 👋 Hi, I’m Astri
+- 👀 I’m interested in clinical neuropsychology
 - 🌱 I’m currently learning python and friends
 - 💞️ I’m looking to collaborate on data analysis
 - 📫 How to reach me ...
